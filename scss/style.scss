@@ -1,0 +1,9 @@
+$primary-color: red;
+body{
+    margin: 0;
+    padding: 0;
+    color: $primary-color;
+    h1{
+        color: $primary-color;
+    }
+}
